@@ -8,6 +8,8 @@ public class proyectoEgitAdrianPablo {
 		for(int i = 0; i<texto.length();i++) {
 			System.out.println(texto);
 		}
+		
+		System.out.println("Adrian");
 
 	}
 
